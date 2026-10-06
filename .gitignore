@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/creditcard.csv
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
